@@ -1,0 +1,53 @@
+body {
+    background-color: grey;
+}
+
+#Tittle {
+
+    color: white;
+    border-radius: 2cm;
+    border-style: solid;
+    border-color: red;
+    text-align:center;
+    float: right;
+    font-weight:800
+}
+
+#Line1 {
+
+
+    height: 10px;
+    background-color: #FF6B7C;
+
+
+}
+
+#About-me-title {
+
+    color: white;
+    text-align: center;
+
+}
+
+#About-me-description {
+
+    text-align: center;
+    color: white;
+
+
+
+}
+
+#Line2 {
+
+    background-color: #FF6B7C;
+    height: 5px;
+
+}
+
+#Hyperlink-tittle {
+    
+    color: white;
+    text-align: center;
+
+}
