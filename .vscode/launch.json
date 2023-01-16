@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Lex/Javascript.js"
+            "program": "${workspaceFolder}/Lex/Rub.bat"
         }
     ]
 }
