@@ -1,2 +1,1 @@
-console.log('test')
-window.print('test')
+console.log('yes')
